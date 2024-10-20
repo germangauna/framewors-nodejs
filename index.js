@@ -134,7 +134,14 @@
 
  // angular tiene 14 versiones fue lanzado por google y fue creado en 2010. permite desarrollar una aplicacion completa.
  //react tinen 18 versiones fue creado por fscebook y se creo en el 2013 y es muy personalizados, y se puede armar una aplicacion completa.
- //vue
+ //vue tiene versiones 4 creado por evan you y fue creado en el 2014, 
+
+//fullstack (MERN, MEAN Y MEVN STACK)
+//mongoDB sistema de base de datos, NoSQL, esta orientado a documentos y de codigos abiertos
+// Express es un framework para node js y sirve para crear aplicaciones de backen en menos tiempo.
+//react-angular - vue, framework ára crear aplicaciones web.
+//node, entorno de tiempo de jecuacion de multiplataformas para la capa del servidor basada en javascript
+
 
 
 
