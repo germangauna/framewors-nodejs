@@ -120,6 +120,23 @@
 //si ejecutamos esto lo que nos va a dar en consola son nombres:
 //diego, laura.
 
+//Librerias y frameworks mas populares de javascrip para desarrollar frontend son:
+// react js, angular y vue js, el mas popular es react js
+//SPA single page aplication, ayuda a que las aplicaciones sean mas optimas.
+//todo es renderizados por funciones asyncronas, se van cargando informacion por el backen.
+//evita que tenga mucho html. es una forma de desarrollo, arquitectura de una plataforma.
+//router, camino de la peticion, renderisa de forma mas dinamica.
+//mvc modelo de vista controlador, la parte logica de gestionar eventos y la comunicacion
+ // usuario, vista, controlador y modelo
+ // usuario accion , la vista pasa datos el controlador y lo pasa el modelo, y vuelve.
+ // trabajann conn compnentes, cuando se unen conforman una unidad funcional.
+ //
+
+ // angular tiene 14 versiones fue lanzado por google y fue creado en 2010. permite desarrollar una aplicacion completa.
+ //react tinen 18 versiones fue creado por fscebook y se creo en el 2013 y es muy personalizados, y se puede armar una aplicacion completa.
+ //vue
+
+
 
 
 
